@@ -1,7 +1,7 @@
 /* Figure out 5 or more DIFFERENT ways to fill in the blank 
    to produce the desired output */
 
- #unique {
+   div > h1 {
     font-family: Helvetica;
     font-size: 300%;
     color: #ffd63e;
@@ -11,8 +11,8 @@
 /* Record your solutions here:
    #1 - .chuuuuu
    #2 - #unique
-   #3 - 
-   #4 -
-   #5 -
+   #3 - h1
+   #4 - div h1
+   #5 - div > h1
 
    e.g. - .pika               */
